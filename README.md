@@ -13,3 +13,4 @@ now close the current terminal and open it again,,now you can see a pop up which
 6) create **Experiments.ipynb file**,,,where all our ML code and experimentaion is done,,,and after getting best performing model,,i am going to save that model using pickle and use that model in my streamlit application..
 7) to run jupyter notebook in vs code,,open Experiments.ipynb file -> click on 'select kernel' -> select python interpreter -> recommended is python interpreter from car_price_pred_venv,,ie;python.exe from this virtual env...3.11.9,,, -> when you run any cell then pop up is come out which indiactes you to download ipykernel package,,so click on install,,it will install those package and store it in car_price_pred_venv virtual env,,,,,,,,,,,,,,,
 8) now you can perform you experimentaions
+9) while importing any library u get any error then upgrade that library,,pip install --upgrade scikit-learn
