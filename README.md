@@ -14,3 +14,10 @@ now close the current terminal and open it again,,now you can see a pop up which
 7) to run jupyter notebook in vs code,,open Experiments.ipynb file -> click on 'select kernel' -> select python interpreter -> recommended is python interpreter from car_price_pred_venv,,ie;python.exe from this virtual env...3.11.9,,, -> when you run any cell then pop up is come out which indiactes you to download ipykernel package,,so click on install,,it will install those package and store it in car_price_pred_venv virtual env,,,,,,,,,,,,,,,
 8) now you can perform you experimentaions
 9) while importing any library u get any error then upgrade that library,,pip install --upgrade scikit-learn
+
+![Screenshot (285)](https://github.com/user-attachments/assets/8e6cca83-458d-404c-9145-1dcb082da438)
+
+![Screenshot (286)](https://github.com/user-attachments/assets/a5f7f686-697a-47c4-a2e8-788e9ef0b59c)
+
+![Screenshot (287)](https://github.com/user-attachments/assets/b301b017-6ac7-4904-8e12-04a27a23dd6f)
+
